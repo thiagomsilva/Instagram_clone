@@ -27,7 +27,7 @@ Tecnologias utilizadas foram NodeJS (Backend), ReactJS (Frontend), React Native 
         Permite comunicação baseada em eventos bidirecional em tempo real</br>
 
 **Dependências do ReactJS:**</br>
-**React router dom**</br>
+- **React router dom**</br>
         ```./frontend/yarn add react-router-dom```</br>
         Trata as rotas através da URL</br>
 
