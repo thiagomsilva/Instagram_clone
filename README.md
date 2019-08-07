@@ -1,4 +1,4 @@
-![](https://media.licdn.com/dms/image/C4E22AQHd1ws651kL1g/feedshare-shrink_800/0?e=1565827200&v=beta&t=9-wQbKp4V7dx0l-Nhvtzwl4ep0jGmfQgiQOyXUV-qYA)
+![](https://miro.medium.com/max/1000/1*wR-gQwWFK2oNmy8xdL0Sxg.png)
 
 **Curso Rocketseat NodeJS, ReactJS e React Native (em desenvolvimento)**
 
