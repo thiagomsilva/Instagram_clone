@@ -10,7 +10,7 @@ const server = require('http').Server(app);
 // Permitir acesso via websocket
 const io = require('socket.io')(server);
 
-mongoose.connect('mongodb+srv://admin:47f7FvUGkJWkf6yg@cluster0-3usga.mongodb.net/test?retryWrites=true&w=majority',{
+mongoose.connect('mongodb+srv://treinamento:jsD6zwrI0cmCJCOw@clusterinstaclone.xzpy0ws.mongodb.net/?retryWrites=true&w=majority',{
     useNewUrlParser: true,
 });
 
